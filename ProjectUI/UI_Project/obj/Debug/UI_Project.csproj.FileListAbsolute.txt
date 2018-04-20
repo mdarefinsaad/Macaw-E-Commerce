@@ -1,0 +1,262 @@
+c:\users\md arefin saad\documents\visual studio 2015\Projects\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\MD Arefin Saad\Documents\Visual Studio 2015\Projects\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+D:\C#\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+D:\C#\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+D:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+I:\C#\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+I:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+I:\C#\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\MetroFramework.dll
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\MD Arefin Saad\Desktop\C#\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+D:\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\MD Arefin Saad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+C:\Users\arefinsaad\Desktop\DEMO\C# Done\New folder\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\arefinsaad\Desktop\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInformation.resources
+F:\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+F:\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+F:\THE PROJECT\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInformation.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+F:\THE PROJECT\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInformation.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.Cache
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Edit_Or_Update.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.LDT_EditvsUpdate.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.MT_EditvsUpdate.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.WAy_To_Go.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\arefinsaad\Desktop\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.exe.config
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.exe
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\bin\Debug\UI_Project.pdb
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csprojResolveAssemblyReference.cache
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminSignIn.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Form1.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.CustomerSignIn.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.CService.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AboutUs.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Feedback.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.EditUserInfor.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Cart.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.MakePayment.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AdminPanel.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.AddItem.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.DiscardCart.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Edit_Or_Update.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Form2.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.LDT_EditvsUpdate.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.MT_EditvsUpdate.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Properties.Resources.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Start.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Store.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.StoreMain.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.Registration.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInfo.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UpdateStore.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.UserInformation.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.ViewInventory.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.WAy_To_Go.resources
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.GenerateResource.cache
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.CoreCompileInputs.cache
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.csproj.CopyComplete
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.exe
+C:\Users\arefin\Downloads\Compressed\THE PROJECT - 2\ProjectUI\UI_Project\obj\Debug\UI_Project.pdb
